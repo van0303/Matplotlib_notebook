@@ -7,5 +7,5 @@
     2. 方便管理多 python 环境
 
 ### 参考
-    [Python神器之Jupyter Notebook作图教程](https://www.toutiao.com/i6643705533788324365/)
+    [Python神器之Jupyter Notebook作图教程](https://www.toutiao.com/i6643705533788324365)
     
